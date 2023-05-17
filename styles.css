@@ -1,12 +1,18 @@
-
-/* Your CSS Code here. */
-  div.main {
-  width: 200px;
-  color: white;
-  background-color: purple;
-  border-left: 5px solid green;
-  padding-left: 10px;
-  padding-top: 2px;
-  padding-bottom: 3px;
-  font-size: 20px;
-}
+.container {
+    width: 200px;
+    background-color: purple;
+  }
+  
+  .main {
+    border-left: 5px solid green;
+    padding: 10px;
+  }
+  
+  .heading {
+    color: white;
+  }
+  
+  .heading div {
+    font-size: 20px;
+  }
+  
